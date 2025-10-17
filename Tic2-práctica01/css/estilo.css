@@ -1,1 +1,33 @@
-ef
+table{
+	color:light blue;
+	width: 800px;
+}
+img{
+	width: 300px;  
+	height: 200px;
+}
+h2{
+	color:#024A86
+}
+h3{
+	color:#00AAFF
+}
+th{
+	color:#23BAC4;
+	background-color:"blue" 
+}
+#carreras{
+	color:#26A69A;
+}
+#teleinicio{
+	width:600px;
+	height:400px; 
+}
+#interioresinicio{
+	width:400px;
+	height:200px; 
+}
+#quimicainicio{
+	width:300px;
+	height:100px;
+}	
